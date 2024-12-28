@@ -1,2 +1,2 @@
 # mlops-techniques
-Conduct studies on MLops tools and techniques
+Conduct studies on MLOps tools and techniques
